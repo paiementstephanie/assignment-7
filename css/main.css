@@ -6,7 +6,10 @@ html {
 	box-sizing: inherit;
 }
 
+img{
+	width: 100%;
+}
+
 body{
 	font-family: 'Dosis', sans-serif;
 }
-
