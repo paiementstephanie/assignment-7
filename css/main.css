@@ -51,9 +51,9 @@ ol a {
 .masthead{
 	background-image: url("../images/bug-logo.svg"), url("../images/bug-logo.svg"), url("../images/subtle-white-mini-waves-2.png");
 	background-size: 55px auto, 55px auto, 100px auto;
-	padding-top: 1em;
+	padding-top: .5em;
 	background-repeat: no-repeat, no-repeat, repeat;
-	background-position: left 30px, right 30px, center 20px;
+	background-position: left 20px, right 20px, center 20px;
 	text-align: center;
 }
 
