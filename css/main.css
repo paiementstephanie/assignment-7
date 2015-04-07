@@ -29,12 +29,21 @@ nav ol{
 	padding: 0em;
 }
 
+
 nav a {
 	color: white;
 	text-decoration: none;
 }
 
 ol li{
+	display: inline-block;
+}
+
+ol a {
+	padding: 0.5rem 0.75rem;
+	color: white;
+	text-decoration: none;
+	text-align: center;
 	display: inline-block;
 }
 
