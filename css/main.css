@@ -48,7 +48,7 @@ ol li{
 }
 
 .btn{
-	color: black;
+	color: white;
 	text-decoration: none;
 	display: inline-block;
 	padding: 0.5em 0.75em;
@@ -57,8 +57,8 @@ ol li{
 	background-image: linear-gradient(to bottom, #6fbf44, #388200);
 }
 
-.btn :hover{
-	background-image: linear-gradient(to bottom, #388200, #214d00;
+div a:hover{
+	background-image: linear-gradient(to bottom, #388200, #214d00);
 
 }
-}
+
