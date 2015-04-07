@@ -40,10 +40,6 @@ ol li{
 	font-size: 1.5em;
 }
 
-ol li:hover{
-	background-color: #512200;
-	opacity: 0.75;
-}
 
 ol a {
 	padding: 0.5rem 0.75rem;
@@ -51,6 +47,12 @@ ol a {
 	text-decoration: none;
 	text-align: center;
 	display: inline-block;
+}
+
+ol a:hover{
+	background-color: #512200;
+	opacity:0.75;
+	color:white;
 }
 
 .masthead{
