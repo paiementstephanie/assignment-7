@@ -62,6 +62,18 @@ ol a {
 	text-align: center;
 }
 
+.billboard{
+	background-image: url("../images/rocks.jpg");
+	padding:5em;
+	background-size:100% auto;
+	background-position: center;
+	width:100%;
+}
+
+p{
+	color:white;
+}
+
 .btn{
 	color: white;
 	text-decoration: none;
