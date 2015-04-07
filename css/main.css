@@ -74,6 +74,7 @@ h1{
 	font-weight: bold;
 }
 
-footer img{
-
+footer{
+	background-color: #512200;
+	opacity: 0.5;
 }
