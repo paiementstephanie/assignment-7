@@ -11,10 +11,21 @@ img{
 }
 
 body{
+	margin: 0em;
 	font-family: 'Dosis', sans-serif;
 }
 
 nav{
 	background-color: #512200;
 	opacity: 50%;
+	margin: 0em;
+	padding: 0em;
 }
+
+.masthead{
+	background-image: url("../images/subtle-white-mini-waves-2.png");
+	background-size: 75px auto;
+	padding: 6em;
+	background-repeat: repeat;
+	background-position: center 10px, left top;
+	text-align: center;
