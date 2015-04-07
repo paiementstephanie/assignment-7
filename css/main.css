@@ -72,6 +72,8 @@ ol a {
 
 p{
 	color:white;
+	font-weight: bold;
+	font-size: 1em;
 }
 
 .btn{
@@ -122,6 +124,7 @@ p{
 	bottom:9em;
 	text-align:center;
 	width:100%;
+	display: inline-block;
 }
 
 .box-stag{
@@ -132,6 +135,10 @@ p{
 	width:100%;
 }
 
+.buttons{
+	position:relative;
+	clear:both;
+}
 
 div a:hover{
 	background-image: linear-gradient(to bottom, #388200, #214d00);
