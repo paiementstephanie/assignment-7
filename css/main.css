@@ -53,6 +53,12 @@ ol li{
 	display: inline-block;
 	padding: 0.5em 0.75em;
 	border-radius: 10px;
-	background-color: #a8ae98;
+	background-color: #6fbf44;
 	background-image: linear-gradient(to bottom, #6fbf44, #388200);
+}
+
+.btn :hover{
+	background-image: linear-gradient(to bottom, #388200, #214d00;
+
+}
 }
