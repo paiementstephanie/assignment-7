@@ -29,6 +29,11 @@ nav ol{
 	padding: 0em;
 }
 
+nav a {
+	color: white;
+	text-decoration: none;
+}
+
 .masthead{
 	background-image: url("../images/subtle-white-mini-waves-2.png"), url("../images/bug-logo.svg");
 	background-size: 200px auto, 75px auto;
