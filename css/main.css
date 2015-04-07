@@ -13,3 +13,8 @@ img{
 body{
 	font-family: 'Dosis', sans-serif;
 }
+
+nav{
+	background-color: #512200;
+	opacity: 50%;
+}
