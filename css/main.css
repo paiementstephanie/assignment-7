@@ -45,3 +45,14 @@ ol li{
 	background-repeat: repeat, no-repeat;
 	background-position: center 20px, left top 20px;
 	text-align: center;
+}
+
+.btn{
+	color: black;
+	text-decoration: none;
+	display: inline-block;
+	padding: 0.5em 0.75em;
+	border-radius: 10px;
+	background-color: #a8ae98;
+	background-image: linear-gradient(to bottom, #6fbf44, #388200);
+}
