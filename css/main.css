@@ -48,11 +48,11 @@ ol a {
 }
 
 .masthead{
-	background-image: url("../images/subtle-white-mini-waves-2.png"), url("../images/bug-logo.svg");
-	background-size: 200px auto, 75px auto;
+	background-image: url("../images/subtle-white-mini-waves-2.png");
+	background-size: 200px auto,;
 	padding: 6em;
-	background-repeat: repeat, no-repeat;
-	background-position: center 20px, left top 20px;
+	background-repeat: repeat;
+	background-position: center 20px;
 	text-align: center;
 }
 
