@@ -20,7 +20,7 @@ nav{
 	background-color: #512200;
 	opacity: 50%;
 	margin: 0em;
-	padding: 0em;
+	padding: 2em;
 }
 
 nav ol{
@@ -32,6 +32,10 @@ nav ol{
 nav a {
 	color: white;
 	text-decoration: none;
+}
+
+ol li{
+	display: inline-block;
 }
 
 .masthead{
