@@ -68,6 +68,8 @@ ol a {
 
 div a:hover{
 	background-image: linear-gradient(to bottom, #388200, #214d00);
-
 }
 
+h1{
+	font-weight: bold;
+}
