@@ -72,6 +72,30 @@ ol a {
 	background-image: linear-gradient(to bottom, #6fbf44, #388200);
 }
 
+.ant1{
+	margin:0em;
+	float:left;
+	width: 50%;
+}
+
+.stag1{
+	margin:0em;
+	float:right;
+	width: 50%;
+}
+
+.dung1{
+	margin:0em;
+	float:left;
+	width: 50%;
+}
+
+.tortoise1{
+	margin:0em;
+	float:left;
+	width: 50%;
+}
+
 div a:hover{
 	background-image: linear-gradient(to bottom, #388200, #214d00);
 }
