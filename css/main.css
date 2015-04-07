@@ -108,6 +108,14 @@ p{
 	width: 50%;
 }
 
+.box-ant{
+	position:absolute;
+	left:-6em;
+	bottom:12em;
+	text-align:center;
+	width:100%;
+}
+
 div a:hover{
 	background-image: linear-gradient(to bottom, #388200, #214d00);
 }
