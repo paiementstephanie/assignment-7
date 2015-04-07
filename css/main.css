@@ -29,7 +29,6 @@ nav ol{
 	padding: 0em;
 }
 
-
 nav a {
 	color: white;
 	text-decoration: none;
@@ -48,11 +47,11 @@ ol a {
 }
 
 .masthead{
-	background-image: url("../images/subtle-white-mini-waves-2.png");
-	background-size: 200px auto,;
-	padding: 6em;
-	background-repeat: repeat;
-	background-position: center 20px;
+	background-image: url("../images/bug-logo.svg"), url("../images/bug-logo.svg"), url("../images/subtle-white-mini-waves-2.png");
+	background-size: 55px auto, 55px auto, 100px auto;
+	padding: 1em;
+	background-repeat: no-repeat, no-repeat, repeat;
+	background-position: left 30px, right 30px, center 20px;
 	text-align: center;
 }
 
@@ -72,9 +71,16 @@ div a:hover{
 
 h1{
 	font-weight: bold;
+	display:block;
+	position:relative;
 }
 
 footer{
 	background-color: #512200;
 	opacity: 0.5;
+	background-image: url("../images/bug-logo.svg");
+	background-size: 55px auto;
+	padding: 2em;
+	background-repeat: no-repeat;
+	background-position: center 5px;
 }
