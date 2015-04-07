@@ -20,7 +20,7 @@ nav{
 	background-color: #512200;
 	opacity: 0.5;
 	margin: 0em;
-	padding: 2em;
+	padding: 1em;
 }
 
 nav ol{
@@ -36,6 +36,8 @@ nav a {
 
 ol li{
 	display: inline-block;
+	width:24%;
+	font-size: 1.5em;
 }
 
 ol a {
@@ -49,7 +51,7 @@ ol a {
 .masthead{
 	background-image: url("../images/bug-logo.svg"), url("../images/bug-logo.svg"), url("../images/subtle-white-mini-waves-2.png");
 	background-size: 55px auto, 55px auto, 100px auto;
-	padding: 1em;
+	padding-top: 1em;
 	background-repeat: no-repeat, no-repeat, repeat;
 	background-position: left 30px, right 30px, center 20px;
 	text-align: center;
