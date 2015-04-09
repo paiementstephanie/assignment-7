@@ -86,6 +86,7 @@ p{
 	border-radius: 10px;
 	background-color: #6fbf44;
 	background-image: linear-gradient(to bottom, #6fbf44, #388200);
+	position: absolute;
 }
 
 .ant1{
@@ -113,28 +114,21 @@ p{
 }
 
 .box-ant{
-	position:absolute;
-	left:-6em;
-	bottom:20em;
+	position:relative;
 	text-align:center;
 	width:50%;
 	float:left;
 }
 
 .box-dung{
-	position:absolute;
-	left:6em;
-	bottom:20em;
+	position:relative;
 	text-align:center;
 	width:50%;
-	display: inline-block;
 	float:left;
 }
 
 .box-stag{
-	position:absolute;
-	left:6em;
-	bottom:6em;
+	position:relative;
 	text-align:center;
 	width:100%;
 	float:left;
@@ -176,9 +170,8 @@ h1{
 
 footer{
 	background-color: rgba(81, 34, 0, 0.5);
-	background-image: url("../images/bug-logo.svg");
-	background-size: 55px auto;
-	padding: 2em;
 	background-repeat: no-repeat;
 	background-position: center 5px;
 }
+
+
