@@ -100,6 +100,7 @@ p{
 	position: absolute;
 	left: 6em;
 	bottom: -25em;
+	box-shadow: 5px 2px 2px #000;
 }
 
 .btn-stag{
@@ -111,6 +112,7 @@ p{
 	background-color: #6fbf44;
 	background-image: linear-gradient(to bottom, #6fbf44, #388200);
 	position: absolute;
+	box-shadow: 5px 2px 2px #000;
 }
 
 .btn-ant{
@@ -122,6 +124,7 @@ p{
 	background-color: #6fbf44;
 	background-image: linear-gradient(to bottom, #6fbf44, #388200);
 	position: absolute;
+	box-shadow: 5px 2px 2px #000;
 }
 
 .btn-dung{
@@ -133,6 +136,7 @@ p{
 	background-color: #6fbf44;
 	background-image: linear-gradient(to bottom, #6fbf44, #388200);
 	position: absolute;
+	box-shadow: 5px 2px 2px #000;
 }
 
 .ant1{
