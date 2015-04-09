@@ -19,19 +19,22 @@ body{
 nav{
 	margin: 0em;
 	padding: 1em;
-	background-color: #512200;
-	opacity: 0.5;
+	background-color: rgba(81, 34, 0, 0.5);
+
 }
 
 nav ol{
 	list-style-type: none;
 	margin: 0em;
 	padding: 0em;
+	overflow:hidden;
 }
 
 nav a {
 	color: white;
 	text-decoration: none;
+	font-size: 1.3rem;
+	padding: 0.5em 0.1em 0.5em 0.1em;
 }
 
 ol li{
@@ -171,6 +174,9 @@ h1{
 footer{
 	background-color: rgba(81, 34, 0, 0.5);
 	background-position: center 5px;
+	clear:both;
 }
 
-
+.bug-footer{
+	width: 75px;
+}
