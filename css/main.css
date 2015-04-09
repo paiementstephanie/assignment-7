@@ -48,6 +48,7 @@ ol a {
 	text-decoration: none;
 	text-align: center;
 	display: inline-block;
+	font-weight: bold;
 }
 
 ol li:hover{
