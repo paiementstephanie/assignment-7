@@ -91,6 +91,8 @@ p{
 	background-color: #6fbf44;
 	background-image: linear-gradient(to bottom, #6fbf44, #388200);
 	position: absolute;
+	left: 6em;
+	bottom: -25em;
 }
 
 .btn-stag{
