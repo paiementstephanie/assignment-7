@@ -115,7 +115,7 @@ p{
 .box-ant{
 	position:absolute;
 	left:-6em;
-	bottom:9em;
+	bottom:20em;
 	text-align:center;
 	width:100%;
 }
@@ -123,7 +123,7 @@ p{
 .box-dung{
 	position:absolute;
 	left:6em;
-	bottom:9em;
+	bottom:20em;
 	text-align:center;
 	width:100%;
 	display: inline-block;
@@ -131,11 +131,12 @@ p{
 
 .box-stag{
 	position:absolute;
-	left:-6em;
-	bottom:-1.5em;
+	left:6em;
+	bottom:6em;
 	text-align:center;
 	width:100%;
 }
+
 
 .buttons{
 	position:relative;
