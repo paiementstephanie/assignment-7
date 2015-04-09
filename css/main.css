@@ -18,7 +18,7 @@ body{
 
 nav{
 	margin: 0em;
-	padding: 1em;
+	padding: 0em;
 	background-color: rgba(81, 34, 0, 0.5);
 }
 
@@ -33,7 +33,6 @@ nav a {
 	color: white;
 	text-decoration: none;
 	font-size: .9em;
-	padding: 0.5em 0.1em 0.5em 0.1em;
 }
 
 ol li{
@@ -41,18 +40,17 @@ ol li{
 	width:25%;
 	float:left;
 	margin:0;
+	padding: 0.5em;
 }
 
-
 ol a {
-	padding: 0.5rem 0.75rem;
 	color: white;
 	text-decoration: none;
 	text-align: center;
 	display: inline-block;
 }
 
-ol a:hover{
+ol li:hover{
 	background-color: #512200;
 	opacity:0.75;
 	color:white;
