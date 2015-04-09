@@ -70,7 +70,17 @@ ol li:hover{
 	padding:5em;
 	background-size:100% auto;
 	background-position: center;
+	color: white;
+}
+
+.billboard p{
+	background-image: linear gradient(to bottom, transparent, rgba(0,0,0,0.5));
+	padding-top:7em;
+	padding-bottom:1em;
 	width:100%;
+	font-weight:bold;
+	text-align:center;
+	margin: 0em;
 }
 
 p{
