@@ -81,7 +81,41 @@ p{
 	font-size: 1em;
 }
 
-.btn{
+
+.btn-tortoise{
+	color: white;
+	text-decoration: none;
+	display: inline-block;
+	padding: 0.5em 0.75em;
+	border-radius: 10px;
+	background-color: #6fbf44;
+	background-image: linear-gradient(to bottom, #6fbf44, #388200);
+	position: absolute;
+}
+
+.btn-stag{
+	color: white;
+	text-decoration: none;
+	display: inline-block;
+	padding: 0.5em 0.75em;
+	border-radius: 10px;
+	background-color: #6fbf44;
+	background-image: linear-gradient(to bottom, #6fbf44, #388200);
+	position: absolute;
+}
+
+.btn-ant{
+	color: white;
+	text-decoration: none;
+	display: inline-block;
+	padding: 0.5em 0.75em;
+	border-radius: 10px;
+	background-color: #6fbf44;
+	background-image: linear-gradient(to bottom, #6fbf44, #388200);
+	position: absolute;
+}
+
+.btn-dung{
 	color: white;
 	text-decoration: none;
 	display: inline-block;
@@ -175,8 +209,11 @@ footer{
 	background-color: rgba(81, 34, 0, 0.5);
 	background-position: center 5px;
 	clear:both;
+	padding: 1em;
+	text-align:center;
 }
 
 .bug-footer{
-	width: 75px;
+	width: 50px;
+	display:inline-block;
 }
